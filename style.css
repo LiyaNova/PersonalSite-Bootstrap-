@@ -1,29 +1,29 @@
-.site-background {
+.main-site-color {
     background-color: #F6DCAC;
+}
+
+.title {
+    font-family: "PT Serif", serif;
+    color: #01204E;  
 }
 
 .name-highlight {
     color: #028391;
 }
 
-.greeting {
+.default-text {
+    font-size: 1rem;
     font-family: "PT Serif", serif;
     color: #01204E;  
 }
 
-.text-right {
-    font-size: 1rem;
-    font-family: "PT Serif", serif;
-    color: #01204E;  
+.about-me {
+    background-color: white !important;
 }
   
 .btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
     background-color: #028391 !important;
     border-color: #028391 !important;
-}
-
-.about-me {
-    background-color: white !important;
 }
 
 .line {
@@ -34,6 +34,12 @@
 .contact {
     text-decoration: none;
     font-family: "PT Serif", serif;
-    color:  #FEAE6F;
-    font-size: 1.1rem;
+    color:  #01204E;
+    font-size: 0.9rem;
+}
+
+.copyright {
+    font-family: "PT Serif", serif;
+    font-size: 0.55rem;
+    color: #01204E;    
 }
