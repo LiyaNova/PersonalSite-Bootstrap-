@@ -1,0 +1,39 @@
+.site-background {
+    background-color: #F6DCAC;
+}
+
+.name-highlight {
+    color: #028391;
+}
+
+.greeting {
+    font-family: "PT Serif", serif;
+    color: #01204E;  
+}
+
+.text-right {
+    font-size: 1rem;
+    font-family: "PT Serif", serif;
+    color: #01204E;  
+}
+  
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+    background-color: #028391 !important;
+    border-color: #028391 !important;
+}
+
+.about-me {
+    background-color: white !important;
+}
+
+.line {
+    background-color: #F6DCAC;
+    height: 1px;
+}
+
+.contact {
+    text-decoration: none;
+    font-family: "PT Serif", serif;
+    color:  #FEAE6F;
+    font-size: 1.1rem;
+}
